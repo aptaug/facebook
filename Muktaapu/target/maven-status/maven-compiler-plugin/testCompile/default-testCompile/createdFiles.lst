@@ -1,0 +1,7 @@
+com\ades\Creafv.class
+com\pageobjectmodel\PageObjectModel.class
+com\testrunner\TestRunner.class
+com\common\Common.class
+com\stepdef\Stepdef.class
+com\ades\Test.class
+com\pageobjectmodel\PageObjectModel$PageObjectModels.class
